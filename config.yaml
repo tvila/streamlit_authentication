@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    tonivila:
+      email: tonivilaa@gmail.com
+      name: Toni Vila
+      password: 2b$12$0ZfnMSZOH9RVKIVFPs96O.Me3I3de4wMr7KS9Vq0hSuMLX1QgeQeq 
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$9aR6be0Ba7nFfVk18IR6tuIxPah88l3tY0G.ifHBDdlAHMltSC80i
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
